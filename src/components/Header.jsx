@@ -8,7 +8,13 @@ const Header = () => {
     <header className={styles.header}>
       <div className="container mx-auto flex items-center">
         <div className={styles.logoWrap}>
-          <img className={styles.logo} src={Logo} alt="Final Project 24 Logo" />
+          <Link to="/">
+            <img
+              className={styles.logo}
+              src={Logo}
+              alt="Final Project 24 Logo"
+            />
+          </Link>
         </div>
         <nav className="container">
           <ul className={styles.navList}>
