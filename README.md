@@ -12,9 +12,11 @@ Kaur, Gurleen
 
 Home Page - Yunxiang
 
-Flavors Page - 
+Flavor Page 1 - 
 
-About us Page - 
+Flavor Page 2 -
+
+About us Page - Yunxiang
 
 # Design Drafts Documentation
 
