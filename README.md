@@ -1,6 +1,6 @@
 # Final Project
 
-## PROG8781 24F - Sec1to3 - Trends in Web Technology
+## PROG8781 24F - Sec1to3 - Trends in Web Technology - Group 24
 
 Abdul Mannan, Mohammed
 
