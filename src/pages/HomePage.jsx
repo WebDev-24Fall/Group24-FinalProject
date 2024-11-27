@@ -5,8 +5,10 @@ const HomePage = () => {
     <div className={styles.homepage}>
       <div className="container mx-auto flex flex-col">
         <div className="justify-center">
-          <h2 className="text-center text-xl sm:text-2xl">Final Project - Group 24</h2>
-          <h1 className="mt-12 text-center text-3xl sm:text-6xl md:text-8xl  ">
+          <h2 className="text-center text-xl sm:text-2xl">
+            Final Project - Group 24
+          </h2>
+          <h1 className="mt-12 text-center text-3xl font-bold sm:text-6xl md:text-8xl  ">
             Fuel Your Life <br /> with Healthy Choices
           </h1>
           <div className="mt-10 text-center">
@@ -16,7 +18,7 @@ const HomePage = () => {
           </div>
           <div className="mt-12 text-center">
             <ul className="flex flex-col gap-3">
-              <li>Home Page: Gu, Yunxiang</li>
+              <li>Gu, Yunxiang: Home Page & About Us Page</li>
               <li>Abdul Mannan, Mohammed</li>
               <li>Kaur, Gurleen</li>
             </ul>
