@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding: .5rem 1rem;
+  background-color: #fcffef;
+}
+
+.logo {
+  width: 48px;
+  margin-right: 1rem;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  padding: 0;
+}
+
+.main {
+  padding: 1rem;
+  min-height: 80vh;
+}
+
+.footer {
+  background-color: #fcffef;
+  font-size: 12px;
+  text-align: center;
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+}
