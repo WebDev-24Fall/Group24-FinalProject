@@ -1,3 +1,37 @@
+# Final Project
+
+## PROG8781 24F - Sec1to3 - Trends in Web Technology
+
+Abdul Mannan, Mohammed
+
+Gu, Yunxiang
+
+Kaur, Gurleen
+
+## Page Design
+
+Home Page - Yunxiang
+
+Flavors Page - 
+
+About us Page - 
+
+# Design Drafts Documentation
+
+## Overview
+
+This repository contains the **`design_drafts`** directory, which includes all the design drafts created for this project. These drafts serve as visual references or prototypes to guide the development process, ensuring alignment between design and implementation.
+
+## Directory Structure
+
+The `design_drafts` directory is organized as follows:
+
+## Design Source
+
+All designs in the `design_drafts` directory were created using **Canva**, an online graphic design tool. Canva allows for quick and efficient prototyping, ensuring high-quality visuals while saving time.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
