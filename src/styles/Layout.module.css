@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   padding: .5rem 1rem;
-  background-color: transparent;
+  background-color: #fcfef2;
 }
 
 .logo {
@@ -33,5 +33,5 @@
   text-align: center;
   color: black;
 
-  background-color: transparent;
+  background-color: #fcfef2;
 }
