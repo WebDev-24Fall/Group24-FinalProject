@@ -30,7 +30,7 @@ The `design_drafts` directory is organized as follows:
 
 ## Design Source
 
-All designs in the `design_drafts` directory were created using **Canva**, an online graphic design tool. Canva allows for quick and efficient prototyping, ensuring high-quality visuals while saving time.
+All designs in the `design_drafts` directory were created using **[Canva](https://www.canva.com/)**, an online graphic design tool. Canva allows for quick and efficient prototyping, ensuring high-quality visuals while saving time.
 
 ---
 
