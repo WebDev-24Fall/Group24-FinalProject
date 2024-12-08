@@ -1,0 +1,117 @@
+.pageWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f9f9f4;
+}
+
+.flavourPage {
+  font-family: "Arial, sans-serif";
+  padding: 3rem 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 100%;
+  gap: 2rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start; /* Align items to the top */
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    gap: 1.5rem; /* Smaller gap on mobile */
+  }
+
+  .imageSection {
+    display: flex;
+    flex-direction: column; /* Stack images vertically on mobile */
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .image {
+    width: 100%;
+    max-width: 250px; /* Restrict image size on mobile */
+    height: auto;
+    margin: 0;
+  }
+
+  .image:first-child {
+    margin-bottom: 0; /* Remove any extra margin for the first image */
+  }
+
+  .image:last-child {
+    margin-top: 1rem; /* Add margin-top for the second image on mobile */
+  }
+}
+
+.imageSection {
+  display: flex;
+  flex-direction: row; /* Default to horizontal layout on larger screens */
+  gap: 1rem;
+  flex: 1;
+  align-items: flex-start;
+  position: relative;
+}
+
+.image {
+  width: 100%;
+  max-width: 250px; /* Restrict image size */
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.image:last-child {
+  margin-top: 2rem; /* Apply a 2rem margin-top to the second image for larger screens */
+}
+
+.textSection {
+  flex: 1;
+  text-align: left;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  margin-bottom: 2rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background-color: #000;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #333;
+}

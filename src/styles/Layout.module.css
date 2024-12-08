@@ -23,7 +23,7 @@
 .main {
   display: flex;
   flex-direction: column;
-  min-height: 80vh;
+  min-height: 85vh;
 }
 
 .footer {
@@ -32,6 +32,5 @@
   font-size: 12px;
   text-align: center;
   color: black;
-
   background-color: #fcfef2;
 }
