@@ -9,6 +9,7 @@ import "./index.css";
 import Layout from "./components/Layout";
 import HomePage from "./pages/HomePage";
 import AboutUsPage from "./pages/AboutUsPage";
+import FlavourPage from "./pages/FlavourPage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -19,6 +20,7 @@ root.render(
           <Route path="/" element={<HomePage />} />
           <Route path="/about-us" element={<AboutUsPage />} />
           <Route path="*" element={<HomePage />} />
+          <Route path="/flavour" element={<FlavourPage />} />
         </Routes>
       </Layout>
     </Router>
