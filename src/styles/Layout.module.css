@@ -1,7 +1,14 @@
+.layout {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  background-color: #fcfef2;
+}
+
 .header {
   display: flex;
   align-items: center;
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
   background-color: #fcfef2;
 }
 
@@ -27,7 +34,6 @@
 }
 
 .footer {
-  
   padding: 1rem;
   font-size: 12px;
   text-align: center;

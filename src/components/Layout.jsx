@@ -4,7 +4,7 @@ import Header from "../components/Header";
 
 const Layout = ({ children }) => {
   return (
-    <div className={styles.layoutWrapper}>
+    <div className={styles.layout}>
       <Header />
       <main className={styles.main}>{children}</main>
       <footer className={styles.footer}>
