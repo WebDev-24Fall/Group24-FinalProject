@@ -2,7 +2,7 @@
 
 ## PROG8781 24F - Sec1to3 - Trends in Web Technology - Group 24
 
-Abdul Mannan, Mohammed
+Abdul Mannan, Mohammed - 8884503
 
 Gu, Yunxiang - 8904492
 
@@ -14,7 +14,7 @@ Home Page - Yunxiang
 
 Flavor Page 1 - 
 
-Flavor Page 2 -
+Flavor Page 2 -Mohammed Abdul Mannan
 
 About us Page - Yunxiang
 

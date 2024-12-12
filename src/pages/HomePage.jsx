@@ -19,7 +19,7 @@ const HomePage = () => {
           <div className="mt-12 text-center">
             <ul className="flex flex-col gap-3">
               <li>Gu, Yunxiang: Home Page & About Us Page</li>
-              <li>Abdul Mannan, Mohammed</li>
+              <li>Abdul Mannan, Mohammed: Flavour Page 2</li>
               <li>Kaur, Gurleen</li>
             </ul>
           </div>

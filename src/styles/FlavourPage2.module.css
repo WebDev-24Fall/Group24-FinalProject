@@ -1,0 +1,69 @@
+/* FlavourPageFrance.module.css */
+
+.flavourPageFrance {
+  font-family: 'Georgia', serif;
+  background-color: #fff9f5;
+  color: #2c2c2c;
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.headerSection {
+  margin-bottom: 3rem;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #d16b3c;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.description {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #4f4f4f;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+  max-width: 200px;
+  flex: 1;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.cardImage {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.cardTitle {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #2c2c2c;
+  margin: 1rem 0;
+  padding: 0 1rem;
+  text-transform: uppercase;
+}

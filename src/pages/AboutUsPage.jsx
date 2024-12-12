@@ -24,13 +24,11 @@ const AboutUsPage = () => {
           </div>
           <div className="md:w-1/3">
             <img src={quote} alt="Quote Icon" className="w-10" />
-            <h2 className="my-3 font-bold">Lorem ipsum dolor</h2>
+            <h2 className="my-3 font-bold">Web-Dev</h2>
             <p className="my-3">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-              Lorem ipsum dolor sit amet"
+              "Creating a better world through React and Blockchain"
             </p>
-            <p>- Abdul Mannan, Mohammed</p>
+            <p>- Abdul Mannan, Mohammed (8884503)</p>
           </div>
           <div className="md:w-1/3">
             <img src={quote} alt="Quote Icon" className="w-10" />
