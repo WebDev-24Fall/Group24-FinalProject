@@ -24,7 +24,7 @@ About us Page - Yunxiang
 
 ## Project Information
 
-[Final Project](https://github.com/WebDev-24Fall/Group24-FinalProject)
+[GitHub Repository](https://github.com/WebDev-24Fall/Group24-FinalProject)
 
 # Design Drafts Documentation
 
