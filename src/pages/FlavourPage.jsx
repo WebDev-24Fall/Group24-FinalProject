@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 import styles from "../styles/FlavourPage.module.css";
 import bread1 from "../assets/Bread1.png";
 import bread2 from "../assets/Bread2.png";
@@ -26,7 +28,7 @@ const FlavourPage = () => {
               the magic of Paris back home. Here, we invite you to savor the delicate balance of
               tradition and creativity, where every dish is a tribute to the romance and flavors of France.
             </p>
-            <button className={styles.button}>Book Now</button>
+            <Link to="/flavour2" className={styles.button}>Book Now</Link>
           </div>
         </div>
       </div>

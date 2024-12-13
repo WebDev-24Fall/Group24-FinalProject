@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import styles from "../styles/HomePage.module.css";
 
 const HomePage = () => {
@@ -12,9 +13,9 @@ const HomePage = () => {
             Fuel Your Life <br /> with Healthy Choices
           </h1>
           <div className="mt-10 text-center">
-            <button className="border py-2 px-6 rounded bg-white hover:bg-gray-200">
+            <Link to="/flavour" className="border py-2 px-6 rounded bg-white hover:bg-gray-200">
               Join Us Today!
-            </button>
+            </Link>
           </div>
           <div className="mt-12 text-center">
             <ul className="flex flex-col gap-3">
