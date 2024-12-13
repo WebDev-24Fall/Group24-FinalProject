@@ -7,6 +7,7 @@ const Layout = ({ children }) => {
     <div className={styles.layout}>
       <Header />
       <main className={styles.main}>{children}</main>
+      <div className="flex-1"></div>
       <footer className={styles.footer}>
         <p>© 2024 Trends in Web Technology - Final Project Group 24</p>
       </footer>
