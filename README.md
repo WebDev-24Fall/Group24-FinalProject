@@ -6,15 +6,19 @@ Abdul Mannan, Mohammed - 8884503
 
 Gu, Yunxiang - 8904492
 
-Kaur, Gurleen
+Kaur, Gurleen - 8915254
+
+Danessh Shaikh - 
 
 ## Page Design
 
 Home Page - Yunxiang
 
-Flavor Page 1 - 
+Flavor Page 1 - Gurleen
 
-Flavor Page 2 -Mohammed Abdul Mannan
+Flavor Page 2 - Mohammed Abdul Mannan
+
+Contact Us Page - Danessh Shaikh
 
 About us Page - Yunxiang
 
