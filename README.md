@@ -22,6 +22,10 @@ Contact Us Page - Danessh Shaikh
 
 About us Page - Yunxiang
 
+## Project Information
+
+[Final Project](https://github.com/WebDev-24Fall/Group24-FinalProject)
+
 # Design Drafts Documentation
 
 ## Overview
