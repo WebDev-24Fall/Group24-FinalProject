@@ -32,7 +32,12 @@ const Header = () => {
               <Link to="/flavour2" className="hover:text-gray-600">
                 Flavour De France
               </Link>
-            </li>  
+            </li>
+            <li>
+              <Link to="/contactus" className="hover:text-gray-600">
+                Contact Us
+              </Link>
+            </li>
             <li>
               <Link to="/about-us" className="hover:text-gray-600">
                 About Us
