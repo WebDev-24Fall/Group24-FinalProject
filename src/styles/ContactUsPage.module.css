@@ -1,0 +1,79 @@
+.contactPage {
+    background-color: #f8f9fa; /* Light background for contrast */
+    padding: 2rem 1rem;
+    font-family: 'Arial', sans-serif;
+    color: #212529; /* Darker text for readability */
+  }
+  
+  .contactPage h1 {
+    color: #495057; /* Primary heading color */
+    margin-bottom: 1rem;
+  }
+  
+  .contactPage h2 {
+    color: #6c757d; /* Secondary heading color */
+    font-weight: 600;
+  }
+  
+  .contactPage p {
+    color: #6c757d; /* Muted text for description */
+    line-height: 1.6;
+  }
+  
+  .contactPage form {
+    background-color: #ffffff; /* White form background */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    padding: 1.5rem;
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  .contactPage input,
+  .contactPage textarea {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 0.8rem;
+    width: 100%;
+    font-size: 1rem;
+  }
+  
+  .contactPage input:focus,
+  .contactPage textarea:focus {
+    border-color: #5bc0de; /* Light blue focus */
+    outline: none;
+    box-shadow: 0 0 5px rgba(91, 192, 222, 0.5);
+  }
+  
+  .contactPage button {
+    background-color: #28a745; /* Green button */
+    color: #ffffff; /* White text */
+    border: none;
+    padding: 0.8rem 2rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .contactPage button:hover {
+    background-color: #218838; /* Darker green on hover */
+    transform: scale(1.05); /* Slight zoom */
+  }
+  
+  .contactPage ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+  
+  .contactPage ul li {
+    color: #495057;
+  }
+  
+  .contactPage ul li::before {
+    content: "✓"; /* Checkmark for list items */
+    color: #28a745; /* Match button color */
+    margin-right: 10px;
+  }
+  
